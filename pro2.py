@@ -1,3 +1,4 @@
+#I took help from google sorry
 def is_prime(n):
     if n<2:
         return False
